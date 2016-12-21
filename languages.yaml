@@ -5,13 +5,13 @@ en:
     ALWAYS_LOAD_HELP: 'If disabled, let the theme decide to load the bootstrap plugin'
     USE_CDN: 'Use Bootstrap CDN'
     USE_CDN_HELP: "Load Bootstrap's CSS and JavaScript from CDN"
+de:
+  PLUGIN_BOOTSTRAPPER:
     MODE: Mode
     LOAD_CORE_CSS: 'Load Core CSS'
     LOAD_THEME_CSS: 'Load Theme CSS'
     LOAD_CORE_JS: 'Load Core JS'
   
-de:
-  PLUGIN_BOOTSTRAPPER:
     STATUS: 'Plugin Status'
     ALWAYS_LOAD: 'Immer laden'
     ALWAYS_LOAD_HELP: 'Falls deaktivert, lass das Theme entscheiden ob das Bootstrap Plugin geladen wird'
@@ -45,6 +45,19 @@ fr:
     LOAD_CORE_CSS: 'Charger les CSS du core'
     LOAD_THEME_CSS: 'Charger les CSS du thème'
     LOAD_CORE_JS: 'Charger les JS du core'
+    
+gl:
+  PLUGIN_BOOTSTRAPPER:
+    STATUS: 'Estado do plugin'
+    ALWAYS_LOAD: 'Sempre cargado'
+    ALWAYS_LOAD_HELP: 'Si desactivado, deixar que o tema decida cargar o plugin de bootstrap'
+    USE_CDN: 'Use Bootstrap CDN'
+    USE_CDN_HELP: "Cargar CSS e JS de Bootstrap desde CDN"
+    MODE: 'Modo'
+    LOAD_CORE_CSS: 'Cargar CSS base'
+    LOAD_THEME_CSS: 'Cargar tema CSS'
+    LOAD_CORE_JS: 'Cargar JS base'    
+    
 ro:
   PLUGIN_BOOTSTRAPPER:
     STATUS: 'Statut modul'
